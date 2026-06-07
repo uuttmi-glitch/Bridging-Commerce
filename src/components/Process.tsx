@@ -1,6 +1,6 @@
 export function Process() {
   return (
-    <section className="py-section-gap-mobile md:py-section-gap-desktop bg-surface-container-lowest" id="process">
+    <section className="py-section-gap-mobile md:py-section-gap-desktop bg-surface-container-lowest scroll-mt-20" id="process">
       <div className="max-w-[1200px] mx-auto px-6">
         <div className="text-center mb-16">
           <h2 className="font-display text-display text-primary mb-4">글로벌 성공을 위한 여정</h2>

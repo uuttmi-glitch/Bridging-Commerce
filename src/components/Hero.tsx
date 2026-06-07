@@ -55,7 +55,7 @@ export function Hero() {
             </div>
           </div>
         </div>
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-16 border-t border-surface-variant pt-8">
+        <div id="services" className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-16 border-t border-surface-variant pt-8 scroll-mt-24">
           <div className="flex items-start gap-4">
             <div className="w-10 h-10 rounded-full bg-secondary-fixed flex items-center justify-center shrink-0">
               <ClipboardCheck className="text-secondary w-5 h-5" />
